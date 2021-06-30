@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "Crappy.digital"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Crappy IT stuff."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Steven Weber"
+email = "privat@stevenweber.de"
+whoami = "Developer/Consultant"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
+location = "Saarbrücken, Germany"
 organization = "Hugo"
-link = "https://zzossig.io/ko"
+link = "https://stevenweber.de"
 
 # sidebar
 enableBio = true
