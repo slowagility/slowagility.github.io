@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Fragile Development"
+title = "Slow Agility"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -12,8 +12,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
-  description = "News from software development and agile management" # Site description. Used in meta description
+  subtitle = "Not so good news from software development and agile management again." # Deprecated in favor of .Site.Params.logo.subtitle
+  description = "Not so good news from software development and agile management again." # Site description. Used in meta description
   copyright = "Steven Weber, Robin Scheid" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
@@ -43,8 +43,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Fragile Development" # Logo title, otherwise will use site title
-  subtitle = "How to destroy software development fast" # Logo subtitle
+  title = "Slow Agility" # Logo title, otherwise will use site title
+  subtitle = "Not so good news from software development and agile management again." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
