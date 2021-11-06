@@ -12,8 +12,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "Not so good news from software development and agile management again." # Deprecated in favor of .Site.Params.logo.subtitle
-  description = "Not so good news from software development and agile management again." # Site description. Used in meta description
+  subtitle = "Bad news from software development and agile management again." # Deprecated in favor of .Site.Params.logo.subtitle
+  description = "Bad news from software development and agile management again." # Site description. Used in meta description
   copyright = "Steven Weber, Robin Scheid" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
@@ -23,7 +23,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  #mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
@@ -44,7 +44,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "Slow Agility" # Logo title, otherwise will use site title
-  subtitle = "Not so good news from software development and agile management again." # Logo subtitle
+  subtitle = "Bad news from software development and agile management again." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
