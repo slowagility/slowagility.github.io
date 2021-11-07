@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Elements on Slow Agility</title>
+    <link>/tags/basic-elements/</link>
+    <description>Recent content in Basic Elements on Slow Agility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 13:29:39 +0100</lastBuildDate><atom:link href="/tags/basic-elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What to say when a customer asks for release notes (and you have no glue)</title>
+      <link>/posts/slow-agility/customer-asks-for-release-notes/</link>
+      <pubDate>Sat, 06 Nov 2021 13:29:39 +0100</pubDate>
+      
+      <guid>/posts/slow-agility/customer-asks-for-release-notes/</guid>
+      <description>Hello Mr </description>
+    </item>
+    
+  </channel>
+</rss>
