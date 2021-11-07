@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2021-11-07T08:16:06+01:00</lastmod>
+  </url><url>
+    <loc>/posts/funny-science/</loc>
+    <lastmod>2021-11-06T13:41:15+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-06T13:41:15+01:00</lastmod>
+  </url><url>
+    <loc>/posts/funny-science/most-boring-experiment/</loc>
+    <lastmod>2021-11-06T13:41:15+01:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-11-06T13:41:15+01:00</lastmod>
+  </url><url>
+    <loc>/tags/basic-elements/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
+  </url><url>
+    <loc>/categories/development/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
+  </url><url>
+    <loc>/posts/slow-agility/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
+  </url><url>
+    <loc>/posts/slow-agility/customer-asks-for-release-notes/</loc>
+    <lastmod>2021-11-06T13:29:39+01:00</lastmod>
   </url>
 </urlset>
