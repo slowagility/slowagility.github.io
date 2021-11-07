@@ -1,4 +1,4 @@
 ---
-title: "Funny Science"
+title: "Boring Science"
 menu: 'main'
 ---
